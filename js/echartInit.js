@@ -14,7 +14,7 @@ option = {
         elements: [{
             type: "image",
             style: {
-                image: 'images/Circle-EN.png',
+                image: imgUrl,
                 width: 220,
                 height: 220,
             },
