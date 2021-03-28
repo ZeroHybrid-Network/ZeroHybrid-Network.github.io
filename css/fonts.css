@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "OpenSans-Bold";
+    src: url("../fonts/OpenSans-Bold.woff2") format("woff2"),
+    url("../fonts/OpenSans-Bold.woff") format("woff");
+}
+@font-face {
+    font-family: "SF-Pro-Display-Semibold";
+    src: url("../fonts/SF-Pro-Display-Semibold.woff2") format("woff2"),
+    url("../fonts/SF-Pro-Display-Semibold.woff") format("woff");
+}
+@font-face {
+    font-family: "SF-Pro-Display-Black";
+    src: url("../fonts/SF-Pro-Display-Black.woff2") format("woff2"),
+    url("../fonts/SF-Pro-Display-Black.woff") format("woff");
+}
+@font-face {
+    font-family: "SF-Pro-Display-Bold";
+    src: url("../fonts/SF-Pro-Display-Bold.woff2") format("woff2"),
+    url("../fonts/SF-Pro-Display-Bold.woff") format("woff");
+}
+@font-face {
+    font-family: "d-din-bold";
+    src: url("../fonts/d-din-bold-webfont.woff2") format("woff2"),
+    url("../fonts/d-din-bold-webfont.woff") format("woff");
+}
