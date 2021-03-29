@@ -3,14 +3,14 @@ var myChart = echarts.init(chartDom);
 var option;
 
 option = {
-    tooltip: {
-        trigger: 'item'
-    },
+    // tooltip: {
+    //     // trigger: 'item',
+    // },
     // legend: {
     //     top: '5%',
     //     left: 'center'
     // },
-    graphic: {//图形中间图片
+    graphic: {
         elements: [{
             type: "image",
             style: {
