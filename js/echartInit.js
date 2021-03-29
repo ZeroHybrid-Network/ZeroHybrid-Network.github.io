@@ -45,11 +45,11 @@ option = {
                 show: false
             },
             data: [
-                {value: 52, name: '搜索引擎'},
-                {value: 20, name: '直接访问'},
-                {value: 20, name: '邮件营销'},
-                {value: 5, name: '联盟广告'},
-                {value: 3, name: '视频广告'}
+                {value: 52, name: 'ZHT Miner'},
+                {value: 20, name: 'ZHT Eco-Build'},
+                {value: 20, name: 'INSTITUTIONAL PRIVATE PLACEMENT'},
+                {value: 5, name: 'Project team'},
+                {value: 3, name: 'project consultant'}
             ]
         }
     ],color:[
