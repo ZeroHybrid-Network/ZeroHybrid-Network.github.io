@@ -1,6 +1,6 @@
 $(function () {
     $(".toggleLan").click(function () {
-        $(".menu-area").toggle();
+        $(".menu-area").toggle('slow');
     })
 
     $(".about").click(function () {
